@@ -425,7 +425,7 @@ body.dark-theme {
   }
 
   .profile__info {
-    column-gap: 0.5rem;
+    column-gap: 0.25rem;
   }
 
   .profile__buttons {
@@ -449,6 +449,7 @@ body.dark-theme {
     width: 332px;
     margin: 3rem auto;
   }
+  /*  */
 }
 
 @media screen and (min-width: 776px) {
