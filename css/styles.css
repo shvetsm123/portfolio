@@ -353,7 +353,7 @@ body.dark-theme {
 
 .skills__group {
   display: grid;
-  align-content: flex-end;
+  align-content: flex-start;
   row-gap: 1rem;
 }
 
