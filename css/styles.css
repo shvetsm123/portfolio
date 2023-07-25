@@ -311,7 +311,7 @@ body.dark-theme {
     hsla(var(--hue), 24%, 4%, 1) 95%
   );
   display: grid;
-  align-items: flex-start;
+  align-items: flex-end;
   padding: 1.5rem 1.25rem;
   transition: 0.3s;
 }
